@@ -1,0 +1,16 @@
+C:\Users\kydec\Desktop\Lindsey School\CSR 150\Activity 2\Milestone 2.1\bin\Debug\net8.0-windows\Milestone 2.1.exe
+C:\Users\kydec\Desktop\Lindsey School\CSR 150\Activity 2\Milestone 2.1\bin\Debug\net8.0-windows\Milestone 2.1.deps.json
+C:\Users\kydec\Desktop\Lindsey School\CSR 150\Activity 2\Milestone 2.1\bin\Debug\net8.0-windows\Milestone 2.1.runtimeconfig.json
+C:\Users\kydec\Desktop\Lindsey School\CSR 150\Activity 2\Milestone 2.1\bin\Debug\net8.0-windows\Milestone 2.1.dll
+C:\Users\kydec\Desktop\Lindsey School\CSR 150\Activity 2\Milestone 2.1\bin\Debug\net8.0-windows\Milestone 2.1.pdb
+C:\Users\kydec\Desktop\Lindsey School\CSR 150\Activity 2\Milestone 2.1\obj\Debug\net8.0-windows\Milestone_2._1.inventoryForm.resources
+C:\Users\kydec\Desktop\Lindsey School\CSR 150\Activity 2\Milestone 2.1\obj\Debug\net8.0-windows\Milestone 2.1.csproj.GenerateResource.cache
+C:\Users\kydec\Desktop\Lindsey School\CSR 150\Activity 2\Milestone 2.1\obj\Debug\net8.0-windows\Milestone 2.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kydec\Desktop\Lindsey School\CSR 150\Activity 2\Milestone 2.1\obj\Debug\net8.0-windows\Milestone 2.1.AssemblyInfoInputs.cache
+C:\Users\kydec\Desktop\Lindsey School\CSR 150\Activity 2\Milestone 2.1\obj\Debug\net8.0-windows\Milestone 2.1.AssemblyInfo.cs
+C:\Users\kydec\Desktop\Lindsey School\CSR 150\Activity 2\Milestone 2.1\obj\Debug\net8.0-windows\Milestone 2.1.csproj.CoreCompileInputs.cache
+C:\Users\kydec\Desktop\Lindsey School\CSR 150\Activity 2\Milestone 2.1\obj\Debug\net8.0-windows\Milestone 2.1.dll
+C:\Users\kydec\Desktop\Lindsey School\CSR 150\Activity 2\Milestone 2.1\obj\Debug\net8.0-windows\refint\Milestone 2.1.dll
+C:\Users\kydec\Desktop\Lindsey School\CSR 150\Activity 2\Milestone 2.1\obj\Debug\net8.0-windows\Milestone 2.1.pdb
+C:\Users\kydec\Desktop\Lindsey School\CSR 150\Activity 2\Milestone 2.1\obj\Debug\net8.0-windows\Milestone 2.1.genruntimeconfig.cache
+C:\Users\kydec\Desktop\Lindsey School\CSR 150\Activity 2\Milestone 2.1\obj\Debug\net8.0-windows\ref\Milestone 2.1.dll
